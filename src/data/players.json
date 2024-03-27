@@ -1,0 +1,433 @@
+[
+    {
+        "name": "Kylian Mbappé",
+        "teams": [
+            "PSG",
+            "Monaco",
+            "France"
+        ]
+    },
+    {
+        "name": "Jude Bellingham",
+        "teams": [
+            "RealMadrid",
+            "Borussia Dortmund",
+            "England"
+        ]
+    },
+    {
+        "name": "Vinicius Jr",
+        "teams": [
+            "RealMadrid",
+            "Flamengo",
+            "Brazil"
+        ]
+    },
+    {
+        "name": "Bukayo Saka",
+        "teams": [
+            "Arsenal",
+            "England"
+        ]
+    },
+    {
+        "name": "Phil Foden",
+        "teams": [
+            "ManchesterCity",
+            "England"
+        ]
+    },
+    {
+        "name": "Jamal Musiala",
+        "teams": [
+            "BayernMunich",
+            "Germany"
+        ]
+    },
+    {
+        "name": "Lautaro Martinez",
+        "teams": [
+            "Inter",
+            "RacingClub",
+            "Argentina"
+        ]
+    },
+    {
+        "name": "Victor Osimhen",
+        "teams": [
+            "Napoli",
+            "Lille",
+            "Nigeria"
+        ]
+    },
+    {
+        "name": "Declan Rice",
+        "teams": [
+            "Arsenal",
+            "West Ham",
+            "England"
+        ]
+    },
+    {
+        "name": "Rodri",
+        "teams": [
+            "ManchesterCity",
+            "Atletico",
+            "Spain"
+        ]
+    },
+    {
+        "name": "Harry Kane",
+        "teams": [
+            "BayernMunich",
+            "Tottenham",
+            "England"
+        ]
+    },
+    {
+        "name": "Florian Wirtz",
+        "teams": [
+            "BayerLeverkusen",
+            "Germany"
+        ]
+    },
+    {
+        "name": "Rodrygo",
+        "teams": [
+            "RealMadrid",
+            "Santos",
+            "Brazil"
+        ]
+    },
+    {
+        "name": "Fede Valverde",
+        "teams": [
+            "RealMadrid",
+            "Uruguay"
+        ]
+    },
+    {
+        "name": "Martin Ødegaard",
+        "teams": [
+            "RealMadrid",
+            "Arsenal",
+            "Norway"
+        ]
+    },
+    {
+        "name": "Gavi",
+        "teams": [
+            "Barcelona",
+            "Spain"
+        ]
+    },
+    {
+        "name": "Eduardo Camavinga",
+        "teams": [
+            "RealMadrid",
+            "StadeRennes",
+            "France"
+        ]
+    },
+    {
+        "name": "Julian Alvarez",
+        "teams": [
+            "ManchesterCity",
+            "RiverPlate",
+            "Argentina"
+        ]
+    },
+    {
+        "name": "Tchouameni",
+        "teams": [
+            "RealMadrid",
+            "Monaco",
+            "France"
+        ]
+    },
+    {
+        "name": "Rafael Leao",
+        "teams": [
+            "ACMilan",
+            "Lille",
+            "Portugal"
+        ]
+    },
+    {
+        "name": "Bruno Guimarães",
+        "teams": [
+            "Newcastle",
+            "Lyon",
+            "Brazil"
+        ]
+    },
+    {
+        "name": "Pedri",
+        "teams": [
+            "Barcelona",
+            "Spain"
+        ]
+    },
+    {
+        "name": "Enzo Fernandez",
+        "teams": [
+            "Chelsea",
+            "Benfica",
+            "Argentina"
+        ]
+    },
+    {
+        "name": "Ruben Dias",
+        "teams": [
+            "ManchesterCity",
+            "Benfica",
+            "Portugal"
+        ]
+    },
+    {
+        "name": "Bernardo Silva",
+        "teams": [
+            "ManchesterCity",
+            "Monaco",
+            "Benfica",
+            "Portugal"
+        ]
+    },
+    {
+        "name": "Leroy Sané",
+        "teams": [
+            "BayernMunich",
+            "ManchesterCity",
+            "Germany"
+        ]
+    },
+    {
+        "name": "Luis Diaz",
+        "teams": [
+            "Liverpool",
+            "Porto",
+            "Colombia"
+        ]
+    },
+    {
+        "name": "Nicolo Barella",
+        "teams": [
+            "Inter",
+            "Italy"
+        ]
+    },
+    {
+        "name": "Joshua Kimmich",
+        "teams": [
+            "BayernMunich",
+            "Germany"
+        ]
+    },
+    {
+        "name": "Xavi Simons",
+        "teams": [
+            "RBLeipzig",
+            "PSV",
+            "PSG",
+            "Netherlands"
+        ]
+    },
+    {
+        "name": "Darwin Nuñez",
+        "teams": [
+            "Liverpool",
+            "Benfica",
+            "Uruguay"
+        ]
+    },
+    {
+        "name": "Alexis Mac Allister",
+        "teams": [
+            "Liverpool",
+            "BocaJuniors",
+            "Argentina"
+        ]
+    },
+    {
+        "name": "Ronald Araujo",
+        "teams": [
+            "Barcelona",
+            "Uruguay"
+        ]
+    },
+    {
+        "name": "Alphonso Davies",
+        "teams": [
+            "BayernMunich",
+            "Canada"
+        ]
+    },
+    {
+        "name": "Éder Militão",
+        "teams": [
+            "Porto",
+            "RealMadrid",
+            "Brazil"
+        ]
+    },
+    {
+        "name": "Gabriel Jesus",
+        "teams": [
+            "Arsenal",
+            "Brazil"
+        ]
+    },
+    {
+        "name": "Alexander Isak",
+        "teams": [
+            "RealSociedad",
+            "Newcastle",
+            "Suecia"
+        ]
+    },
+    {
+        "name": "Christopher Nkunku",
+        "teams": [
+            "RBLeipzig",
+            "Chelsea",
+            "France"
+        ]
+    },
+    {
+        "name": "Frenkie de Jong",
+        "teams": [
+            "Barcelona",
+            "Ajax",
+            "Netherlands"
+        ]
+    },
+    {
+        "name": "Alessandro Bastoni",
+        "teams": [
+            "Inter",
+            "Italy"
+        ]
+    },
+    {
+        "name": "Alexander-Arnold",
+        "teams": [
+            "Liverpool",
+            "England"
+        ]
+    },
+    {
+        "name": "Diego Maradona",
+        "teams": [
+            "BocaJuniors",
+            "Barcelona",
+            "Napoli",
+            "Argentina"
+        ]
+    },
+    {
+        "name": "Pelé",
+        "teams": [
+            "Santos",
+            "Brazil"
+        ]
+    },
+    {
+        "name": "Eusebio",
+        "teams": [
+            "Benfica",
+            "Portugal"
+        ]
+    },
+    {
+        "name": "Roberto Baggio",
+        "teams": [
+            "Juventus",
+            "Fiorentina",
+            "Italy"
+        ]
+    },
+    {
+        "name": "Romario",
+        "teams": [
+            "Barcelona",
+            "PSV",
+            "Brazil"
+        ]
+    },
+    {
+        "name": "Marco Van Basten",
+        "teams": [
+            "Ajax",
+            "ACMilan",
+            "Netherlands"
+        ]
+    },
+    {
+        "name": "Ronaldo",
+        "teams": [
+            "PSV",
+            "Barcelona",
+            "Inter",
+            "RealMadrid",
+            "Brazil"
+        ]
+    },
+    {
+        "name": "Franz Beckenbauer",
+        "teams": [
+            "BayernMunich",
+            "Germany"
+        ]
+    },
+    {
+        "name": "Zinedine Zidane",
+        "teams": [
+            "Juventus",
+            "RealMadrid",
+            "France"
+        ]
+    },
+    {
+        "name": "Rivaldo",
+        "teams": [
+            "Barcelona",
+            "Brazil"
+        ]
+    },
+    {
+        "name": "Zico",
+        "teams": [
+            "Flamengo",
+            "Brazil"
+        ]
+    },
+    {
+        "name": "Garrincha",
+        "teams": [
+            "Botafogo",
+            "Brazil"
+        ]
+    },
+    {
+        "name": "Johan Cruyff",
+        "teams": [
+            "Ajax",
+            "Barcelona",
+            "Netherlands"
+        ]
+    },
+    {
+        "name": "Alfredo Di Stéfano",
+        "teams": [
+            "RealMadrid",
+            "Argentina"
+        ]
+    },
+    {
+        "name": "Michael Platini",
+        "teams": [
+            "Juventus",
+            "France"
+        ]
+    }
+]

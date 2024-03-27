@@ -1,0 +1,68 @@
+
+.game_header {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: center;
+  width: 50dvw;
+  margin-top: 25px;
+  padding: 15px 20px;
+  border: 2px #48fb47 solid;
+  border-radius: 4px;
+  box-shadow: rgba(72, 251, 71, 0.4) 5px 5px, rgba(72, 251, 71, 0.3) 10px 10px, rgba(72, 251, 71, 0.2) 15px 15px;
+}
+
+.game_header div {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.game_header div:has(svg) {
+  margin: 0 auto;
+  font-size: 45px;
+}
+
+.skip_button {
+  background-color: transparent;
+  color: #ffffff;
+  border: 2px solid #48fb47;
+  border-radius: 30px;
+  box-shadow: #48fb47 4px 4px 0 0;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 600;
+  font-size: 18px;
+  padding: 0 18px;
+  line-height: 50px;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.skip_button:hover {
+    background-color: transparent;
+}
+
+.skip_button:active {
+  box-shadow: #48fb47 2px 2px 0 0;
+  transform: translate(2px, 2px);
+}
+
+.button_players_left {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.remaining_players {
+  font-size: 8px;
+}
+
+
